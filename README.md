@@ -1,5 +1,5 @@
 # Blasius equation
-Solution of the blasius equation for the incompressible and compressible [Blasius equation](https://en.wikipedia.org/wiki/Blasius_boundary_layer)
+Solution of the  [Blasius equation](https://en.wikipedia.org/wiki/Blasius_boundary_layer) for a laminar incompressible and compressible boundary layer flow
 
 ## Requirements
 ~~~~
