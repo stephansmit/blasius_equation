@@ -11,7 +11,11 @@ python3 -m pip install pandas matplotlib numpy
 python3 blasius_cp.py
 ~~~~
 
-## Incompressible solution
+## Results
+
+### Incompressible
 <p align="center">
 <img src="blasius_cp.png"  align="center" width="500" />
 </p>
+
+### Compressible
