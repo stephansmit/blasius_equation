@@ -1,3 +1,6 @@
 # Blasius Solution
-<img src="blasius_cp.png" width="1000"/>
 
+## Incompressible solution
+<p align="center">
+<img src="blasius_cp.png"  align="center" width="500" />
+</p>
