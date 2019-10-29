@@ -2,5 +2,5 @@
 
 ## Incompressible solution
 
-<img src="blasius_cp.png" width="500"/>
+<img src="blasius_cp.png" width="500" align="center"/>
 
