@@ -1,4 +1,4 @@
-# Laminar Boundary Layer Flow
+# Laminar Boundary Layer
 Solution of the for a laminar incompressible (using the [Blasius equation](https://en.wikipedia.org/wiki/Blasius_boundary_layer)) and compressible boundary layer flow.
 
 ## Requirements
