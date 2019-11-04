@@ -19,3 +19,6 @@ python3 blasius_cp.py
 </p>
 
 ### Compressible
+<p align="center">
+<img src="blasius_vp.png"  align="center" width="500" />
+</p>
