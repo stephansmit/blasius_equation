@@ -1,9 +1,9 @@
 # Laminar Boundary Layer Flow
-Solution of the for a laminar incompressible (using the [Blasius equation](https://en.wikipedia.org/wiki/Blasius_boundary_layer)) and compressible boundary layer flow
+Solution of the for a laminar incompressible (using the [Blasius equation](https://en.wikipedia.org/wiki/Blasius_boundary_layer)) and compressible boundary layer flow.
 
 ## Requirements
 ~~~~
-python3 -m pip install pandas matplotlib numpy
+python3 -m pip install pandas matplotlib numpy CoolProp
 ~~~~
 
 ## Usage
